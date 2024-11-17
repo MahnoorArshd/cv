@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> CV</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+        }
+        img {
+            width: 150px;
+            border-radius: 50%;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        table, th, td {
+            border: 1px solid #ddd;
+        }
+        th, td {
+            padding: 10px;
+            text-align: left;
+        }
+        ul {
+            list-style-type: square;
+        }
+        a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+       
+
+        <section>
+            <h2>About Me</h2>
+            <p>Hi, I'm Mah-e-Noor. I have a background in web development and computer science . I am passionate about building interactive and user-friendly websites.</p>
+            <img src="76 Perfect Muslim Fashion Dress Modern Ideas You'll Be Glad You Discovered Immediately.jpeg" >
+        </section>
+
+        <section>
+            <h2>Educational Background</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Degree</th>
+                        <th>Institute</th>
+                        <th>Year</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Bachelor's in CS</td>
+                        <td>University Of Management and Technology  </td>
+                        <td>2021-Present</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+
+        <section>
+            <h2>Work Experience</h2>
+            <ul>
+                <li>Full Stack - Netsol (2023-Present)</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Technical Skills</h2>
+            <ul>
+                <li>HTML, CSS, JavaScript</li>
+                <li>Python</li>
+                <li>C++</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Life Goals</h2>
+            <p>To become a full-stack web developer and to earn a lot of money and happiness.</p>
+        </section>
+
+        <section>
+            <h2>Personal Interests</h2>
+           <ul>
+            <li>
+                Coding
+            </li>
+            <li>Reading</li>
+            <Li>Swimming</Li>
+           </ul>
+        </section>
+
+        <section>
+            <h2>Contact Details</h2>
+            <ul>
+                <li>Email: <a href="F2021266054@umt.edu.pk">F2021266054@umt.edu.pk</a></li>
+                <li>Github: <a href="https://github.com/yourprofile" target="_blank">github.com/yourprofile</a></li>
+                
+        </section>
+
+        <section>
+            <h2>Motivational Quote</h2>
+            <audio controls>
+                <source src="motivational-music-243042.mp3" type="audio/mp3">
+                Your browser does not support the audio element.
+            </audio>
+        </section>
+        
+
+        <section>
+            <h2>Inspirational Video</h2>
+            <iframe src="https://www.youtube.com/embed/wnHW6o8WMas" height="200" width="300" title="Iframe Example"></iframe>
+        </section>
+        
+
+        <footer>
+            <p>Follow me on social media:</p>
+            <a href="https://twitter.com/mahnoorarshd" target="_blank"><i class="fab fa-twitter"></i> Twitter</a>
+            <a href="https://instagram.com/mahnoorarshd" target="_blank"><i class="fab fa-instagram"></i> Instagram</a>
+        </footer>
+    </div>
+</body>
+</html>
